@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">W9_B2</string>
+    <string name="inbox">Inbox</string>
+    <string name="nav_icon_description">Navigation</string>
+    <string name="search_icon_description">Search</string>
+    <string name="sender_avatar">Sender avatar</string>
+</resources>
